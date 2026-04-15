@@ -24,3 +24,4 @@ def calculate_kpis(df):
         "growth_rate": round(growth_rate, 2),
         "top_campaign": top_campaign
     }
+    
