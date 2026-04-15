@@ -1,3 +1,8 @@
 date,revenue,leads,conversions,campaign,region
 2026-01-01,1000,50,10,Facebook,North
 2026-01-02,1200,60,15,Google,South
+2026-01-03,900,40,8,Facebook,East
+2026-01-04,1500,70,20,Google,West
+2026-01-05,1700,80,25,Instagram,North
+2026-01-06,1300,65,18,Facebook,South
+2026-01-07,1800,90,30,Google,East
