@@ -1,15 +1,34 @@
 # Automated BI Reporter
 
 ## Overview
-This project automates business reporting by converting raw data into insights.
+The Automated BI Reporter is a Python-based project that transforms raw business data into actionable insights automatically.
+
+It processes data such as sales, leads, and campaign performance, calculates key metrics, and generates:
+- Summary (What is happening)
+- Insights (Why it is happening)
+- Actions (What to do next)
+
+---
+
+## Objective
+To automate the Business Intelligence (BI) process and reduce manual effort in analyzing business data.
+
+---
 
 ## Features
-- Data Processing using Python (pandas)
-- KPI Calculation
-- AI-generated Summary, Insights, Actions
-- Automated Reporting
+- Data Cleaning and Processing using pandas
+- KPI Calculation (Revenue, Growth Rate, Conversion Rate)
+- AI-based Insight Generation
+- Automated Report Generation (JSON + Text)
+- Modular and Scalable Code Structure
 
-## How to Run
-pip install -r requirements.txt
-cd src
-python main.py
+---
+
+## Tech Stack
+- Python
+- Pandas
+- (Optional) AI Integration (Claude API)
+
+---
+
+## Project Structure
